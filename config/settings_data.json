@@ -28,15 +28,15 @@
     "type_base_accent_transform": true,
     "icon_weight": "3px",
     "icon_linecaps": "miter",
-    "animate_page_transitions": true,
+    "animate_page_transitions": false,
     "animate_page_transition_style": "page-slow-fade",
-    "animate_sections": true,
+    "animate_sections": false,
     "animate_sections_background_style": "zoom-fade",
     "animate_sections_text_style": "rise-up",
-    "animate_images": true,
+    "animate_images": false,
     "animate_images_style": "zoom-fade",
-    "animate_buttons": true,
-    "animate_underlines": true,
+    "animate_buttons": false,
+    "animate_underlines": false,
     "cart_type": "drawer",
     "checkout_header_image": "",
     "checkout_logo_image": "",
@@ -56,7 +56,10 @@
     "color_input": "#ffffff",
     "checkout_banner_background_color": "#ffffff",
     "checkout_call_to_action_color": "#a26b25",
-    "checkout_use_header_image": false
+    "checkout_use_header_image": false,
+    "content_for_index": [
+
+    ]
   },
   "presets": {
     "Classic": {
