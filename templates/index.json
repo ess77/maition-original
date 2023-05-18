@@ -35,8 +35,8 @@
     "featured-collection-switcher": {
       "type": "featured-collection-switcher",
       "settings": {
-        "title": "Most popular",
-        "collection1": "",
+        "title": "Nouvelle collection",
+        "collection1": "nouvelle-collection",
         "collection2": "",
         "per_row": 4,
         "view_all": true,
