@@ -39,6 +39,7 @@
     "animate_buttons": false,
     "animate_underlines": false,
     "cart_type": "drawer",
+    "cart_icon": "cart",
     "checkout_header_image": "",
     "checkout_logo_image": "",
     "checkout_logo_position": "left",
