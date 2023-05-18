@@ -40,6 +40,8 @@
     "animate_underlines": false,
     "cart_type": "drawer",
     "cart_icon": "cart",
+    "search_enable": false,
+    "predictive_search_enabled": false,
     "checkout_header_image": "",
     "checkout_logo_image": "",
     "checkout_logo_position": "left",
