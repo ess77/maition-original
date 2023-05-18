@@ -38,7 +38,7 @@
         "title": "Nouvelle collection",
         "collection1": "nouvelle-collection",
         "collection2": "",
-        "per_row": 4,
+        "per_row": 2,
         "view_all": true,
         "divider": false
       }
