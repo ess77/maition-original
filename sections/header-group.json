@@ -5,7 +5,7 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "settings": {
-        "announcement_text": "Free shipping and returns",
+        "announcement_text": "slidark vous propose une garantie satisfait ou remboursé",
         "announcement_link": "",
         "announcement_closable": false
       }

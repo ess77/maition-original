@@ -38,6 +38,7 @@
     "animate_images_style": "zoom-fade",
     "animate_buttons": false,
     "animate_underlines": false,
+    "product_save_amount": false,
     "cart_type": "drawer",
     "cart_icon": "cart",
     "search_enable": false,
