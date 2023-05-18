@@ -39,6 +39,7 @@
     "animate_buttons": false,
     "animate_underlines": false,
     "product_save_amount": false,
+    "product_save_type": "percent",
     "cart_type": "drawer",
     "cart_icon": "cart",
     "search_enable": false,
