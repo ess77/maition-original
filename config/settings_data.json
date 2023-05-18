@@ -40,6 +40,8 @@
     "animate_underlines": false,
     "product_save_amount": false,
     "product_save_type": "percent",
+    "quick_shop_text": "Vue rapide",
+    "enable_swatches": false,
     "cart_type": "drawer",
     "cart_icon": "cart",
     "search_enable": false,
