@@ -16,6 +16,22 @@
         "lazyload_images": true
       }
     },
+    "6b8a3efa-2bd6-4693-a5e5-b65b231088df": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/NOUVEAUTE_15.png",
+        "layout": "left",
+        "height": 650,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
     "featured-collection-switcher": {
       "type": "featured-collection-switcher",
       "settings": {
@@ -184,6 +200,7 @@
   },
   "order": [
     "background-image-text",
+    "6b8a3efa-2bd6-4693-a5e5-b65b231088df",
     "featured-collection-switcher",
     "rich-text",
     "featured-collections",
